@@ -1,7 +1,7 @@
 # app-dev
-My first repository 
 
-##Supernatural
+
+## Supernatural
 Supernatural is a dark fantasy series created by Eric Kripke. It premiered on The CW in 2005 and ran for an impressive 15 seasons, concluding in 2020. The show follows the thrilling and sometimes terrifying adventures of two brothers, Sam and Dean Winchester, as they hunt demons, ghosts, and other supernatural creatures.
 
 **Plot Overview**
